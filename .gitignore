@@ -1,0 +1,4 @@
+__pycache__
+.venv
+speech.wav
+text.mp3
